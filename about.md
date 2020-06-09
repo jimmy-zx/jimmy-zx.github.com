@@ -3,8 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-# About
-
 ## Me
 
 Member of [AIwaffle](https://github.com/AIwaffle/)
